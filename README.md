@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @IsuruAkalanka
 - 👀 I’m interested in Software development, Machine learning, Web automation, Microservices Management
-- 🌱 I’m currently learning WEB development
+- 🌱 I’m currently learning backend development, Microservices, API-Management, API-Security
 - 💞️ I’m looking to collaborate on above fields
-- 📫 How to reach me https://www.linkedin.com/in/isuru-akalanka-287446188/
+- 📫 How to reach me in [Linkedin](https://www.linkedin.com/in/isuru-cumaranathunga/)
+- 📫 You can read my blog posts in [medium](https://medium.com/@isurucuma)
 
 <!---
 IsuruAkalanka/IsuruAkalanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
